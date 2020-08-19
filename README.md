@@ -1,4 +1,4 @@
-### Nomad, Engineer, Writer aspiring to become a public citizen of the world.
+### Nomad, Engineer, Writer aspiring to become a Public Citizen of the World.
 
 I'm left my private job in August 2020 so that I could build, learn, and share what I'm working on more publicly. Originally from Long Island, New York, I now travel the world spending a different month in a different city. The goal is for this to inspire a lifestyle where I am more connected to the rest of the world and my perspective is not confined to any one place.
 
