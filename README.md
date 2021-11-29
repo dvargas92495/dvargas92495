@@ -1,6 +1,6 @@
 ### Nomad, Engineer, Writer
 
-Short term goal - Building https://roamjs.com.
+Short term goal - Building https://roamjs.com, https://workinpublic.io.
 
 Long term goal - Make it easier for engineers to build a sustainable career in open source software development.
 
