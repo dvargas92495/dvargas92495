@@ -1,4 +1,4 @@
-### Nomad, Engineer, Writer
+### Nomad | Engineer | Writer
 
 Short term goal - Building https://roamjs.com, https://workinpublic.io.
 
