@@ -5,7 +5,7 @@ Short term goal - Building a portfolio of web services:
 - https://roamjs.com  _Live_
 - https://samepage.network _In Development_
 
-Long term goal - Make it easier for engineers to build a sustainable career and business model around open source software development (digital public goods).
+Long term goal - Make it easier for engineers to build a sustainable career and business model around solving problems plaguing digital public goods (open source software).
 
 Life term goal - Make it easier for people to build a sustainable career and business model around solving problems plaguing atomic public goods.
 
