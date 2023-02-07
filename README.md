@@ -1,6 +1,6 @@
 ### Open Source Engineer
 
-CEO/CTO of [SamePage](https://samepage.network).
+Founder of [SamePage](https://samepage.network).
 
 All code for the organization is open at https://github.com/samepage-network.
 
